@@ -1,0 +1,39 @@
+body
+{
+	text-align: center;
+	background-color: black;
+	color: white;
+	font: cursive;
+}
+.mc
+{
+	height: 30px;
+	text-align: center;
+	color: cyan;
+	margin: 30px;
+	padding: 100px;
+	border: 2px solid darkred;
+}
+table
+{
+	border: 5px solid white;
+	table-layout: all;
+	border-collapse: collapse;
+	width: 10%;
+}
+
+th
+{
+	background-color: cyan;
+}
+
+th, td
+{
+	padding: 5px;
+	border: 2px solid white;
+}
+#h1
+{
+	color: red;
+	text-align: center;
+}
