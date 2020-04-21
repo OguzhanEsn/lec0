@@ -1,0 +1,39 @@
+.tc {
+	color: rgba(239, 239, 237, 1);
+}
+
+.başlık {
+	margin-left: 15px;
+}
+
+.dropbox {
+	background-color: rgba(34, 34, 34, 1);
+	border: 2px solid darkgrey;
+}
+.square {
+	padding: 10px;
+}
+.res {
+	width: 100%;
+	height: 100%;
+	border: 3px solid rgba(239, 239, 237, 1);
+}
+.subject {
+	font-size: 28px;
+	color: white;
+}
+.navbaşlık {
+	font-size: 24px;
+	color: lightgrey;
+}
+.navbaşlık .navborder {
+	border-right: 1px solid grey;
+	border-radius: 5px;
+}
+.navbar a:hover {
+	color: white;
+}
+.içerik {
+	margin-top: 30px;
+	font-size: 18px;
+}
